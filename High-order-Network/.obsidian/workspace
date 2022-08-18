@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "496e4b818d1f3106",
+    "type": "split",
+    "children": [
+      {
+        "id": "d930de4d6f8c9c95",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Representing higher-order dependencies.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82539503db5629f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "497948d74dc5aaca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3a9641d3907ed54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdc3be5f036f47c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0425ffd9677dc215",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "745c27021673d209",
+    "type": "split",
+    "children": [
+      {
+        "id": "e48379dff74d2b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71b37795a74ea3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Representing higher-order dependencies.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f0465e7863a2be7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Representing higher-order dependencies.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14e6f4c4222ef1ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b296d0a5a1306e15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Representing higher-order dependencies.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d930de4d6f8c9c95",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Representing higher-order dependencies.pdf"
+  ]
+}
